@@ -1,11 +1,9 @@
 # Disease Prediction through Symptoms
-
 <br />
 
 ### Description:
     This project was developed to predict diseases (Prognosis) through the given symptoms.
-    Developed a website for the same. ( Using HTML, CSS , Python -Flask )
-    
+    Developed a website for the same. ( Using HTML, CSS , Python -Flask )  
 <br />
 
 ### Requirements:
@@ -14,7 +12,6 @@
      -  Scikit Learn library
      -  Flask library
      -  HTML & CSS
-
 <br />
 
 ### Information about the dataset:
@@ -25,9 +22,7 @@
     
     
     This dataset has been parsed and converted into csv for easement.
-    Divided into training and testing set.
-    
- 
+    Divided into training and testing set. 
 <br />
 
 ### How to Run:
@@ -45,8 +40,6 @@
     7. Done. 
     Now you ready to go.
  
- 
- 
  <br />
  
 ### View the python notebook for information about preprocessing and model building [here. NOTEBOOK](../blob/master/Symptom_Disease_Prediction.ipynb)    
@@ -62,9 +55,8 @@
     
     Visualization of a decision tree is shown below.
     
-    ![tree](https://user-images.githubusercontent.com/47252506/82969025-4364d000-9fec-11ea-98b1-662eef1897d1.png)
-    
- 
+![tree](https://user-images.githubusercontent.com/47252506/82969025-4364d000-9fec-11ea-98b1-662eef1897d1.png)
+
 <br /> 
 
 ### Website Screenshots:
