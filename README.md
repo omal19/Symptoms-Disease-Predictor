@@ -48,12 +48,12 @@
 <br /> 
 
 ### Algorithm:
-    Used tree model based on the data-set as it only  0 and 1  only. 
-    Tree models are consider the best for such kind of data.
-    They are found to be fastest and accurate for such data.
-    As they use splitting based on information gain.
+    - Used tree model based on the data-set as it only  0 and 1  only. 
+    - Tree models are consider the best for such kind of data.
+    - They are found to be fastest and accurate for such data.
+    - As they use splitting based on information gain.
     
-    Visualization of a decision tree is shown below.
+    - Visualization of a decision tree is shown below.
     
 ![tree](https://user-images.githubusercontent.com/47252506/82969025-4364d000-9fec-11ea-98b1-662eef1897d1.png)
 
