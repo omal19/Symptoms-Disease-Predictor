@@ -42,7 +42,7 @@
  
  <br />
  
-### View the python notebook for information about preprocessing and model building [here. NOTEBOOK](../blob/master/Symptom_Disease_Prediction.ipynb)    
+### View the python notebook for information about preprocessing and model building [here. NOTEBOOK](../master/Symptom_Disease_Prediction.ipynb)    
     
     
 <br /> 
