@@ -2,7 +2,7 @@
 <br />
 
 ### Description:
-    This project was developed to predict diseases (Prognosis) through the inputed symptoms.
+    This project was developed to predict diseases (Prognosis) through the inputted symptoms.
     Developed a website for the same. ( Using HTML, CSS , Python - Flask )  
 <br />
 
