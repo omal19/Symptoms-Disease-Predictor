@@ -2,27 +2,27 @@
 <br />
 
 ### Description:
-    This project was developed to predict diseases (Prognosis) through the given symptoms.
-    Developed a website for the same. ( Using HTML, CSS , Python -Flask )  
+    This project was developed to predict diseases (Prognosis) through the inputed symptoms.
+    Developed a website for the same. ( Using HTML, CSS , Python - Flask )  
 <br />
 
 ### Requirements:
 
      -  Python 3 or above
-     -  Scikit Learn library
-     -  Flask library
-     -  HTML & CSS
+     -  Scikit Learn (library)
+     -  Flask (library)
+     
 <br />
 
 ### Information about the dataset:
-    The Original dataset contains the Disease in the given form below:
+    The Original dataset contains the Disease and symptoms in the given form below:
     
               Hypertension  : headache , chest_pain , dizziness , loss_of_balance , lack_of_concentration
               Fungal infection : itching , skin_rash , nodal_skin_eruptions , dischromic _patches 
     
     
-    This dataset has been parsed and converted into csv for easement.
-    Divided into training and testing set. 
+    This above dataset has been parsed and converted into csv for easement.
+    Divided into training and testing set. See above files.
 <br />
 
 ### How to Run:
@@ -30,13 +30,13 @@
     1. Download the zip from above. 
     2. Unzip and Go inside the folder.
     3. Open terminal and cd into the above folder.
-    4. Run app.py in your terminal.
+    4. Run app.py in your terminal through the below command.
             $ python3 app.py
 
     5. The above command will output something like:
             Running on http://127.0.0.1:5000/
 
-    6. Copy & paste this in your browser.
+    6. Copy & paste the above link in your browser.
     7. Done. 
     Now you ready to go.
  
@@ -91,10 +91,5 @@
 #### Output:
 
   ![screenshot-127 0 0 1_5000-2020 05 27-05_10_34](https://user-images.githubusercontent.com/47252506/82969287-ed445c80-9fec-11ea-83cb-6eeea8641087.png)
-
-
-
-
-
 
 
