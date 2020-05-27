@@ -1,11 +1,13 @@
 # Disease Prediction through Symptoms
 
 <br />
+
 ### Description:
     This project was developed to predict diseases (Prognosis) through the given symptoms.
     Developed a website for the same. ( Using HTML, CSS , Python -Flask )
     
 <br />
+
 ### Requirements:
 
      -  Python 3 or above
@@ -14,6 +16,7 @@
      -  HTML & CSS
 
 <br />
+
 ### Information about the dataset:
     The Original dataset contains the Disease in the given form below:
     
@@ -26,6 +29,7 @@
     
  
 <br />
+
 ### How to Run:
 
     1. Download the zip from above. 
@@ -44,10 +48,12 @@
  
  
  <br />
+ 
 ### View the python notebook for information about preprocessing and model building [here. NOTEBOOK](../blob/master/Symptom_Disease_Prediction.ipynb)    
     
     
-<br />  
+<br /> 
+
 ### Algorithm:
     Used tree model based on the data-set as it only  0 and 1  only. 
     Tree models are consider the best for such kind of data.
@@ -58,12 +64,15 @@
     
     ![tree](https://user-images.githubusercontent.com/47252506/82969025-4364d000-9fec-11ea-98b1-662eef1897d1.png)
     
-<br />  
+ 
+<br /> 
+
 ### Website Screenshots:
 
 <br />
 
 #### Home-page:
+
 <br />
 
   ![screenshot-127 0 0 1_5000-2020 05 27-04_58_08](https://user-images.githubusercontent.com/47252506/82969334-0b11c180-9fed-11ea-8a9c-17765ee43261.png)
@@ -72,6 +81,7 @@
 <br /><br />
 
 #### Input:
+
 <br />
 
   ![Screenshot from 2020-05-27 04-32-15](https://user-images.githubusercontent.com/47252506/82969193-aeaea200-9fec-11ea-8d86-8a61ab523431.png)
@@ -85,6 +95,7 @@
   
   
  <br /><br /><br />
+ 
 #### Output:
 
   ![screenshot-127 0 0 1_5000-2020 05 27-05_10_34](https://user-images.githubusercontent.com/47252506/82969287-ed445c80-9fec-11ea-83cb-6eeea8641087.png)
