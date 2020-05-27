@@ -48,7 +48,7 @@
 <br /> 
 
 ### Algorithm:
-    - Used tree model based on the data-set as it only  0 and 1  only. 
+    - Used tree model based on the data-set as it only  0 and 1 values. 
     - Tree models are consider the best for such kind of data.
     - They are found to be fastest and accurate for such data.
     - As they use splitting based on information gain.
